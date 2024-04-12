@@ -1,0 +1,22 @@
+{
+  "name": "varuncloudrunbasic",
+  "version": "1.0.0",
+  "description": "Check the cloud run build from source code deployment",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunsetlam3/varuncloudrunbasic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunsetlam3/varuncloudrunbasic/issues"
+  },
+  "homepage": "https://github.com/varunsetlam3/varuncloudrunbasic#readme"
+}
